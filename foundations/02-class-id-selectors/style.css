@@ -1,0 +1,21 @@
+
+#numbertwo {
+    color: blue;
+    font-size: 36px;
+
+}
+
+.odd {
+    background-color: darksalmon;
+    font-family: Verdana, Tahoma, sans-serif;
+    }
+
+.numberthree {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: darkseagreen;
+    font-weight: bold;
+    font-size: 24px;
+}
